@@ -1,0 +1,5 @@
+__pycache__/
+*.pyc
+informe_cache.txt
+informe_cache.csv
+main.py
